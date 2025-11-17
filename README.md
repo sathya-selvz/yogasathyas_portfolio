@@ -1,5 +1,6 @@
-![GIF Description](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+
+
 # YOGASATHYA S – Personal Portfolio
 
 This is my personal portfolio website showcasing my skills, projects, education, certifications, and experience.  
